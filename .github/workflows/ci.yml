@@ -1,0 +1,29 @@
+name: Public source checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: cloudflare-backend
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: cloudflare-backend/package-lock.json
+      - run: npm ci
+      - run: npm run i18n:check
+      - run: npm run typecheck
+      - run: npm run test:unit

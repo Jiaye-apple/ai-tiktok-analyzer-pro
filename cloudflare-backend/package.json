@@ -1,0 +1,44 @@
+{
+  "name": "ai-tiktok-downloader-pro-backend",
+  "version": "6.4.10",
+  "private": true,
+  "description": "AI TikTok Downloader Pro creator analytics and video tools backend for Cloudflare Workers",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail",
+    "db:init:local": "wrangler d1 execute kolsprite --local --file=./migrations/0001_init.sql",
+    "db:init:remote": "wrangler d1 execute kolsprite --remote --file=./migrations/0001_init.sql",
+    "db:seed:local": "wrangler d1 execute kolsprite --local --file=./migrations/0002_seed.sql",
+    "db:seed:remote": "wrangler d1 execute kolsprite --remote --file=./migrations/0002_seed.sql",
+    "db:wishes:local": "wrangler d1 execute kolsprite --local --file=./migrations/0003_wishes.sql",
+    "db:wishes:remote": "wrangler d1 execute kolsprite --remote --file=./migrations/0003_wishes.sql",
+    "i18n:build": "node ../scripts/build-i18n.mjs",
+    "i18n:check": "node ../scripts/check-i18n.mjs",
+    "typecheck": "tsc --noEmit",
+    "test:smoke": "bash scripts/smoke-test.sh",
+    "test:routes": "node scripts/route-coverage.mjs",
+    "test:unit": "node scripts/asr-timeline.test.mjs && node --import ./scripts/ts-resolve-hook.mjs scripts/mail-inbound.test.mjs",
+    "test": "npm run i18n:check && npm run typecheck && npm run test:unit && npm run test:routes && npm run test:smoke",
+    "db:auth:local": "wrangler d1 execute kolsprite --local --file=./migrations/0003_auth.sql",
+    "db:auth:remote": "wrangler d1 execute kolsprite --remote --file=./migrations/0003_auth.sql",
+    "db:rebrand:local": "wrangler d1 execute kolsprite --local --file=./migrations/0004_rebrand.sql",
+    "db:rebrand:remote": "wrangler d1 execute kolsprite --remote --file=./migrations/0004_rebrand.sql",
+    "db:billing:local": "wrangler d1 execute kolsprite --local --file=./migrations/0005_billing.sql",
+    "db:billing:remote": "wrangler d1 execute kolsprite --remote --file=./migrations/0005_billing.sql",
+    "db:similarity:local": "wrangler d1 execute kolsprite --local --file=./migrations/0006_similarity.sql",
+    "db:similarity:remote": "wrangler d1 execute kolsprite --remote --file=./migrations/0006_similarity.sql"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20260812.1",
+    "flag-icons": "^7.5.0",
+    "typescript": "^5.6.0",
+    "wrangler": "^4.122.0"
+  },
+  "dependencies": {
+    "hono": "^4.13.1",
+    "postal-mime": "^2.7.6",
+    "worker-mailer": "^1.2.1"
+  }
+}

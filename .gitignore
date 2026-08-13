@@ -1,0 +1,34 @@
+# Dependencies and build output
+node_modules/
+.wrangler/
+dist/
+coverage/
+*.log
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.dev.vars
+SECRETS.md
+**/.dev.vars
+**/SECRETS.md
+*.pem
+*.key
+
+# Local archives, backups and generated release packages
+*.zip
+*.bak
+*.bak-*
+*.bak[0-9]*
+_to_delete/
+release/
+store-assets/
+video/out/
+
+# Editor and OS state
+.DS_Store
+.idea/
+.vscode/
+.claude/
+.gstack/

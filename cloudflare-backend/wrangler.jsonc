@@ -1,0 +1,27 @@
+{
+  // 公开镜像的本地开发配置。生产资源、路由和真实 ID 不在此仓库中。
+  "name": "ai-tiktok-downloader-pro",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-01-15",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": { "directory": "./public" },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "kolsprite", "database_id": "local-dev" }
+  ],
+  "kv_namespaces": [{ "binding": "KV", "id": "local-dev" }],
+  "r2_buckets": [{ "binding": "R2", "bucket_name": "kolsprite-assets" }],
+  "vars": {
+    "ENVIRONMENT": "development",
+    "TOKEN_TTL_DAYS": "30",
+    "AI_CHAIN": "groq,siliconflow,workers-ai",
+    "ASR_CHAIN": "groq,siliconflow,workers-ai",
+    "GROQ_CHAT_MODEL": "llama-3.3-70b-versatile",
+    "GROQ_ASR_MODEL": "whisper-large-v3-turbo",
+    "SILICONFLOW_CHAT_MODEL": "THUDM/GLM-4-9B-0414",
+    "SILICONFLOW_ASR_MODEL": "FunAudioLLM/SenseVoiceSmall",
+    "SILICONFLOW_ASR_MODEL_FALLBACK": "TeleAI/TeleSpeechASR",
+    "WORKERS_AI_CHAT_MODEL": "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
+    "WORKERS_AI_ASR_MODEL": "@cf/openai/whisper-large-v3-turbo",
+    "PUBLIC_SITE_URL": "http://localhost:8788"
+  }
+}
