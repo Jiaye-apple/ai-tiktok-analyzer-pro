@@ -10,6 +10,8 @@
 
 [Open the product](https://tiktok.poviai.com/) · [Download a TikTok video](https://tiktok.poviai.com/tools/video-download) · [Search creators](https://tiktok.poviai.com/kol/search) · [Read the guide](https://tiktok.poviai.com/kol/guide)
 
+Source mirrors: [GitHub](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro) · [Gitee](https://gitee.com/jerrylinap/ai-tiktok-downloader-pro)
+
 ![AI TikTok Downloader Pro creator analytics and research interface](cloudflare-backend/public/site/showcase/scene-profile.webp)
 
 ## Why this project stands out
