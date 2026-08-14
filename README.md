@@ -5,6 +5,7 @@
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-f38020?logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/workers/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Languages](https://img.shields.io/badge/UI_languages-9-18a058)](#international-seo-and-localization)
+[![Latest release](https://img.shields.io/github/v/release/Jiaye-apple/ai-tiktok-downloader-pro?label=Extension%20release)](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases/latest)
 
 **AI TikTok Downloader Pro is a TikTok creator research, video download, transcript, script-analysis and audience-insight platform.** It combines a browser extension experience with a multilingual web workbench and an edge-native Cloudflare Workers backend for creators, influencer marketers, ecommerce teams and social-media researchers.
 
@@ -13,6 +14,22 @@
 Source mirrors: [GitHub](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro) · [Gitee](https://gitee.com/jerrylinap/ai-tiktok-downloader-pro)
 
 ![AI TikTok Downloader Pro creator analytics and research interface](cloudflare-backend/public/site/showcase/scene-profile.webp)
+
+## Install the browser extension
+
+| Channel | Link |
+|---|---|
+| Chrome Web Store | [AI TikTok Downloader Pro for Chrome](https://chromewebstore.google.com/detail/ai-tiktok-downloader-pro/cgnemfnpkodogmbpdchgejohnnpgamho) |
+| Microsoft Edge Add-ons | [AI TikTok Downloader Pro for Edge](https://microsoftedge.microsoft.com/addons/detail/ai-tiktok-downloader-pro/okmglmemcolofokocjhncoaibejejkkd) |
+| Manual install | [Latest release packages](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases/latest) — Chrome and Edge zips with SHA-256 checksums |
+
+Manual installation from a release package:
+
+1. Download the Chrome or Edge zip from the [Releases page](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases) and unzip it.
+2. Open `chrome://extensions` (or `edge://extensions`) and enable **Developer mode**.
+3. Click **Load unpacked** and select the unzipped folder.
+
+Release packages are produced by the same build pipeline as the store submissions; every release lists the exact SHA-256 checksums so you can verify that the archive you downloaded matches the published build.
 
 ## Why this project stands out
 
@@ -117,7 +134,7 @@ This public mirror includes:
 - unit, route-coverage and smoke-test tooling;
 - public website screenshots, video assets and country-flag assets.
 
-It intentionally excludes production credentials, provider keys, Cloudflare resource IDs, private deployment automation, browser-store packages and extracted extension bundles. Internal resource names that remain in the source are compatibility identifiers, not third-party affiliation claims.
+It intentionally excludes production credentials, provider keys, Cloudflare resource IDs, private deployment automation and the editable extension source tree. The official browser-store packages for Chrome and Microsoft Edge are published as versioned assets with SHA-256 checksums on the [Releases page](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases). Internal resource names that remain in the source are compatibility identifiers, not third-party affiliation claims.
 
 ## Verify the public source
 
@@ -133,6 +150,20 @@ npm run test:unit
 
 The included `wrangler.jsonc` is a local-development configuration with placeholder resource IDs. Production deployment requires your own Cloudflare resources and secrets; do not commit `.dev.vars`, `SECRETS.md` or provider credentials.
 
+## Frequently asked questions
+
+**What is AI TikTok Downloader Pro?** A browser extension plus a multilingual web workbench for researching public TikTok creators and videos: sorting and filtering, engagement analytics, AI transcripts and script analysis, comment insights, media tools and data export.
+
+**How do I install it?** From the [Chrome Web Store](https://chromewebstore.google.com/detail/ai-tiktok-downloader-pro/cgnemfnpkodogmbpdchgejohnnpgamho) or [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ai-tiktok-downloader-pro/okmglmemcolofokocjhncoaibejejkkd), or manually by loading an unzipped [release package](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases) in developer mode.
+
+**Does it download TikTok videos in HD?** Yes — it saves the highest-quality variant publicly served for a video, plus MP3 audio and cover images, for media you own or are permitted to use.
+
+**Is it free?** Core research tools ship with free daily allowances; higher AI and download volumes are available on paid plans (see [Pricing](https://tiktok.poviai.com/price)).
+
+**Which languages does it support?** Nine: English, Simplified Chinese, Traditional Chinese, Japanese, Korean, Vietnamese, Indonesian, Spanish and Portuguese.
+
+**Is it affiliated with TikTok?** No. It is an independent tool for researching public information and is not affiliated with, endorsed by or sponsored by TikTok.
+
 ## Responsible use
 
 AI TikTok Downloader Pro is an independent product and is not affiliated with, endorsed by or sponsored by TikTok. Analyze public information responsibly and download media only when you own it or have permission from the rights holder. Availability can vary with region, public-page access and upstream platform changes.
@@ -141,7 +172,7 @@ Security reports: [support@poviai.com](mailto:support@poviai.com) · [Privacy](h
 
 ## 中文简介
 
-AI TikTok Downloader Pro 面向创作者、达人营销和跨境电商团队，覆盖 TikTok 达人搜索与榜单、公开数据分析、视频与音频下载、AI 转写、双语字幕、脚本拆解、评论洞察和研究任务管理。公开仓库展示原创 Cloudflare Workers 后端、九语言官网与 SEO 技术基础；生产密钥、商店安装包和提取版扩展代码不公开。
+AI TikTok Downloader Pro 面向创作者、达人营销和跨境电商团队，覆盖 TikTok 达人搜索与榜单、公开数据分析、视频与音频下载、AI 转写、双语字幕、脚本拆解、评论洞察和研究任务管理。公开仓库展示原创 Cloudflare Workers 后端、九语言官网与 SEO 技术基础；Chrome 与 Edge 官方商店安装包在 [Releases](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases) 页发布并附 SHA-256 校验值。安装入口：[Chrome 应用商店](https://chromewebstore.google.com/detail/ai-tiktok-downloader-pro/cgnemfnpkodogmbpdchgejohnnpgamho) · [Edge 外接程序商店](https://microsoftedge.microsoft.com/addons/detail/ai-tiktok-downloader-pro/okmglmemcolofokocjhncoaibejejkkd)。生产密钥与可编辑扩展源码不公开。
 
 ## License
 
