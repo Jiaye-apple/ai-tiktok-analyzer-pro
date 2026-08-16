@@ -1,31 +1,31 @@
-# AI TikTok Downloader Pro
+# AI TikTok Analyzer Pro
 
 [![Website](https://img.shields.io/badge/Website-tiktok.poviai.com-4464ff)](https://tiktok.poviai.com/)
-[![CI](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/actions/workflows/ci.yml/badge.svg)](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/actions/workflows/ci.yml)
+[![CI](https://github.com/Jiaye-apple/ai-tiktok-analyzer-pro/actions/workflows/ci.yml/badge.svg)](https://github.com/Jiaye-apple/ai-tiktok-analyzer-pro/actions/workflows/ci.yml)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-f38020?logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/workers/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Languages](https://img.shields.io/badge/UI_languages-9-18a058)](#international-seo-and-localization)
-[![Latest release](https://img.shields.io/github/v/release/Jiaye-apple/ai-tiktok-downloader-pro?label=Extension%20release)](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/Jiaye-apple/ai-tiktok-analyzer-pro?label=Extension%20release)](https://github.com/Jiaye-apple/ai-tiktok-analyzer-pro/releases/latest)
 
-**AI TikTok Downloader Pro is a TikTok creator research, video download, transcript, script-analysis and audience-insight platform.** It combines a browser extension experience with a multilingual web workbench and an edge-native Cloudflare Workers backend for creators, influencer marketers, ecommerce teams and social-media researchers.
+**AI TikTok Analyzer Pro is a TikTok creator research, video download, transcript, script-analysis and audience-insight platform.** It combines a browser extension experience with a multilingual web workbench and an edge-native Cloudflare Workers backend for creators, influencer marketers, ecommerce teams and social-media researchers.
 
-[Open the product](https://tiktok.poviai.com/) · [Download a TikTok video](https://tiktok.poviai.com/tools/video-download) · [Search creators](https://tiktok.poviai.com/kol/search) · [Read the guide](https://tiktok.poviai.com/kol/guide)
+[Open the product](https://tiktok.poviai.com/) · [Sort a creator’s videos](https://tiktok.poviai.com/tools/tiktok-video-sorter) · [Export comments](https://tiktok.poviai.com/tools/export-tiktok-comments) · [Download subtitles](https://tiktok.poviai.com/tools/tiktok-subtitle-downloader) · [Blog](https://tiktok.poviai.com/blog) · [Read the guide](https://tiktok.poviai.com/kol/guide)
 
-Source mirrors: [GitHub](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro) · [Gitee](https://gitee.com/jerrylinap/ai-tiktok-downloader-pro)
+Source mirrors: [GitHub](https://github.com/Jiaye-apple/ai-tiktok-analyzer-pro) · [Gitee](https://gitee.com/jerrylinap/ai-tiktok-analyzer-pro)
 
-![AI TikTok Downloader Pro creator analytics and research interface](cloudflare-backend/public/site/showcase/scene-profile.webp)
+![AI TikTok Analyzer Pro creator analytics and research interface](cloudflare-backend/public/site/showcase/scene-profile.webp)
 
 ## Install the browser extension
 
 | Channel | Link |
 |---|---|
-| Chrome Web Store | [AI TikTok Downloader Pro for Chrome](https://chromewebstore.google.com/detail/ai-tiktok-downloader-pro/cgnemfnpkodogmbpdchgejohnnpgamho) |
-| Microsoft Edge Add-ons | [AI TikTok Downloader Pro for Edge](https://microsoftedge.microsoft.com/addons/detail/ai-tiktok-downloader-pro/okmglmemcolofokocjhncoaibejejkkd) |
-| Manual install | [Latest release packages](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases/latest) — Chrome and Edge zips with SHA-256 checksums |
+| Chrome Web Store | [AI TikTok Analyzer Pro for Chrome](https://chromewebstore.google.com/detail/ai-tiktok-analyzer-pro/cgnemfnpkodogmbpdchgejohnnpgamho) |
+| Microsoft Edge Add-ons | [AI TikTok Analyzer Pro for Edge](https://microsoftedge.microsoft.com/addons/detail/ai-tiktok-analyzer-pro/okmglmemcolofokocjhncoaibejejkkd) |
+| Manual install | [Latest release packages](https://github.com/Jiaye-apple/ai-tiktok-analyzer-pro/releases/latest) — Chrome and Edge zips with SHA-256 checksums |
 
 Manual installation from a release package:
 
-1. Download the Chrome or Edge zip from the [Releases page](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases) and unzip it.
+1. Download the Chrome or Edge zip from the [Releases page](https://github.com/Jiaye-apple/ai-tiktok-analyzer-pro/releases) and unzip it.
 2. Open `chrome://extensions` (or `edge://extensions`) and enable **Developer mode**.
 3. Click **Load unpacked** and select the unzipped folder.
 
@@ -86,16 +86,23 @@ The public website uses focused landing pages instead of forcing unrelated searc
 
 | Search intent | Topic cluster | Canonical page | User outcome |
 |---|---|---|---|
-| Product / navigational | AI TikTok Downloader Pro, TikTok creator analytics | [Homepage](https://tiktok.poviai.com/) | Understand the full platform |
+| Product / navigational | AI TikTok Analyzer Pro, TikTok creator analytics | [Homepage](https://tiktok.poviai.com/) | Understand the full platform |
 | Transactional tool | TikTok video downloader, HD video, MP3, cover image | [Video downloader](https://tiktok.poviai.com/tools/video-download) | Process an authorized TikTok URL |
 | Informational tool | TikTok script analysis, hook, CTA, creative brief | [Script analysis](https://tiktok.poviai.com/tools/script-analysis) | Break down content structure |
-| Informational tool | TikTok hashtags, content research | [Hashtag tool](https://tiktok.poviai.com/tools/hashtag) | Explore and copy relevant tags |
+| Informational tool | TikTok hashtags, content research | [Hashtag tool](https://tiktok.poviai.com/tools/hashtag-generator) | Explore and copy relevant tags |
 | Commercial research | TikTok influencer search, creator discovery | [Creator search](https://tiktok.poviai.com/kol/search) | Build a creator shortlist |
-| Commercial research | TikTok influencer rankings, engagement rate | [Creator rankings](https://tiktok.poviai.com/kol/rank-kol) | Compare public creator signals |
-| Trend research | Trending TikTok videos, viral content research | [Video rankings](https://tiktok.poviai.com/kol/rank-video) | Discover high-performing content |
-| Ecommerce research | TikTok Shop product rankings | [Product rankings](https://tiktok.poviai.com/kol/rank-product) | Compare product demand signals |
+| Commercial research | TikTok influencer rankings, engagement rate | [Creator rankings](https://tiktok.poviai.com/kol/kol-rank) | Compare public creator signals |
+| Trend research | Trending TikTok videos, viral content research | [Video rankings](https://tiktok.poviai.com/kol/video-rank) | Discover high-performing content |
+| Ecommerce research | TikTok Shop product rankings | [Product rankings](https://tiktok.poviai.com/kol/product-rank) | Compare product demand signals |
 | Support / how-to | Install extension, TikTok analytics guide | [User guide](https://tiktok.poviai.com/kol/guide) | Complete setup and common workflows |
 | Commercial / transactional | TikTok analytics pricing | [Pricing](https://tiktok.poviai.com/price) | Compare plans and allowances |
+| Transactional tool | Sort TikTok videos by views, likes, date | [Video sorter](https://tiktok.poviai.com/tools/tiktok-video-sorter) | Surface a creator’s best-performing posts |
+| Transactional tool | Export TikTok comments to Excel or CSV | [Comment exporter](https://tiktok.poviai.com/tools/export-tiktok-comments) | Turn a comment section into a spreadsheet |
+| Transactional tool | Translate TikTok comments in bulk | [Comment translator](https://tiktok.poviai.com/tools/translate-tiktok-comments) | Read audience reactions in nine languages |
+| Transactional tool | Download TikTok subtitles, SRT, transcripts | [Subtitle downloader](https://tiktok.poviai.com/tools/tiktok-subtitle-downloader) | Get text even when a video has no captions |
+| Informational tool | TikTok hook analysis, first three seconds | [Hook analyzer](https://tiktok.poviai.com/tools/tiktok-hook-analyzer) | Classify the opening pattern of a video |
+| Transactional tool | Download all videos from a TikTok account | [Bulk downloader](https://tiktok.poviai.com/tools/bulk-download-tiktok-videos) | Filter first, then queue an authorized batch |
+| Informational content | Tool comparisons, research guides | [Blog](https://tiktok.poviai.com/blog) | Compare options before committing |
 
 ### Technical SEO foundation
 
@@ -134,7 +141,7 @@ This public mirror includes:
 - unit, route-coverage and smoke-test tooling;
 - public website screenshots, video assets and country-flag assets.
 
-It intentionally excludes production credentials, provider keys, Cloudflare resource IDs, private deployment automation and the editable extension source tree. The official browser-store packages for Chrome and Microsoft Edge are published as versioned assets with SHA-256 checksums on the [Releases page](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases). Internal resource names that remain in the source are compatibility identifiers, not third-party affiliation claims.
+It intentionally excludes production credentials, provider keys, Cloudflare resource IDs, private deployment automation and the editable extension source tree. The official browser-store packages for Chrome and Microsoft Edge are published as versioned assets with SHA-256 checksums on the [Releases page](https://github.com/Jiaye-apple/ai-tiktok-analyzer-pro/releases). Internal resource names that remain in the source are compatibility identifiers, not third-party affiliation claims.
 
 ## Verify the public source
 
@@ -152,9 +159,9 @@ The included `wrangler.jsonc` is a local-development configuration with placehol
 
 ## Frequently asked questions
 
-**What is AI TikTok Downloader Pro?** A browser extension plus a multilingual web workbench for researching public TikTok creators and videos: sorting and filtering, engagement analytics, AI transcripts and script analysis, comment insights, media tools and data export.
+**What is AI TikTok Analyzer Pro?** A browser extension plus a multilingual web workbench for researching public TikTok creators and videos: sorting and filtering, engagement analytics, AI transcripts and script analysis, comment insights, media tools and data export.
 
-**How do I install it?** From the [Chrome Web Store](https://chromewebstore.google.com/detail/ai-tiktok-downloader-pro/cgnemfnpkodogmbpdchgejohnnpgamho) or [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ai-tiktok-downloader-pro/okmglmemcolofokocjhncoaibejejkkd), or manually by loading an unzipped [release package](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases) in developer mode.
+**How do I install it?** From the [Chrome Web Store](https://chromewebstore.google.com/detail/ai-tiktok-analyzer-pro/cgnemfnpkodogmbpdchgejohnnpgamho) or [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ai-tiktok-analyzer-pro/okmglmemcolofokocjhncoaibejejkkd), or manually by loading an unzipped [release package](https://github.com/Jiaye-apple/ai-tiktok-analyzer-pro/releases) in developer mode.
 
 **Does it download TikTok videos in HD?** Yes — it saves the highest-quality variant publicly served for a video, plus MP3 audio and cover images, for media you own or are permitted to use.
 
@@ -166,13 +173,13 @@ The included `wrangler.jsonc` is a local-development configuration with placehol
 
 ## Responsible use
 
-AI TikTok Downloader Pro is an independent product and is not affiliated with, endorsed by or sponsored by TikTok. Analyze public information responsibly and download media only when you own it or have permission from the rights holder. Availability can vary with region, public-page access and upstream platform changes.
+AI TikTok Analyzer Pro is an independent product and is not affiliated with, endorsed by or sponsored by TikTok. Analyze public information responsibly and download media only when you own it or have permission from the rights holder. Availability can vary with region, public-page access and upstream platform changes.
 
 Security reports: [support@poviai.com](mailto:support@poviai.com) · [Privacy](https://tiktok.poviai.com/privacy) · [Terms](https://tiktok.poviai.com/terms)
 
 ## 中文简介
 
-AI TikTok Downloader Pro 面向创作者、达人营销和跨境电商团队，覆盖 TikTok 达人搜索与榜单、公开数据分析、视频与音频下载、AI 转写、双语字幕、脚本拆解、评论洞察和研究任务管理。公开仓库展示原创 Cloudflare Workers 后端、九语言官网与 SEO 技术基础；Chrome 与 Edge 官方商店安装包在 [Releases](https://github.com/Jiaye-apple/ai-tiktok-downloader-pro/releases) 页发布并附 SHA-256 校验值。安装入口：[Chrome 应用商店](https://chromewebstore.google.com/detail/ai-tiktok-downloader-pro/cgnemfnpkodogmbpdchgejohnnpgamho) · [Edge 外接程序商店](https://microsoftedge.microsoft.com/addons/detail/ai-tiktok-downloader-pro/okmglmemcolofokocjhncoaibejejkkd)。生产密钥与可编辑扩展源码不公开。
+AI TikTok Analyzer Pro 面向创作者、达人营销和跨境电商团队，覆盖 TikTok 达人搜索与榜单、公开数据分析、视频与音频下载、AI 转写、双语字幕、脚本拆解、评论洞察和研究任务管理。公开仓库展示原创 Cloudflare Workers 后端、九语言官网与 SEO 技术基础；Chrome 与 Edge 官方商店安装包在 [Releases](https://github.com/Jiaye-apple/ai-tiktok-analyzer-pro/releases) 页发布并附 SHA-256 校验值。安装入口：[Chrome 应用商店](https://chromewebstore.google.com/detail/ai-tiktok-analyzer-pro/cgnemfnpkodogmbpdchgejohnnpgamho) · [Edge 外接程序商店](https://microsoftedge.microsoft.com/addons/detail/ai-tiktok-analyzer-pro/okmglmemcolofokocjhncoaibejejkkd)。生产密钥与可编辑扩展源码不公开。
 
 ## License
 
