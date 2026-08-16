@@ -198,29 +198,43 @@ Guides are also published as native-language articles rather than machine transl
 
 **Spanish**
 
+- [Cómo transcribir un video de TikTok (aunque no tenga subtítulos)](https://tiktok.poviai.com/blog/como-transcribir-un-video-de-tiktok-2026) — La mayoría de los videos de TikTok no trae archivo de subtítulos. Así se transcribe uno en 2026 con voz a texto por IA y qué revisar antes de usarlo.
 - [Cómo descargar todos los videos de una cuenta de TikTok (2026)](https://tiktok.poviai.com/blog/descargar-todos-los-videos-de-una-cuenta-de-tiktok-2026) — Tres formas de descargar todos los videos de una cuenta de TikTok en 2026: extensión de navegador, línea de comandos yt-dlp y exportación oficial.
+- [Cómo descargar un video de TikTok sin marca de agua (2026)](https://tiktok.poviai.com/blog/descargar-video-de-tiktok-sin-marca-de-agua-2026) — Guardar desde la app incrusta la marca de agua en la imagen. Cuatro rutas para conseguir una copia limpia en 2026 y las reglas de uso que siguen vigentes.
+- [11 errores de investigación en TikTok que te cuestan la semana](https://tiktok.poviai.com/blog/errores-de-investigacion-en-tiktok-2026) — Once hábitos que convierten la investigación en TikTok en horas perdidas: ordenar por seguidores, sesgo de novedad, comentarios ignorados y su arreglo.
 - [Los 8 mejores generadores de transcripciones de TikTok (2026)](https://tiktok.poviai.com/blog/mejores-generadores-de-transcripciones-tiktok-2026) — Ocho formas de obtener la transcripción de un video de TikTok en 2026, gratis y de pago, comparadas por soporte sin subtítulos, lotes, formatos y precio.
 - [Las 8 mejores herramientas para exportar comentarios de TikTok](https://tiktok.poviai.com/blog/mejores-herramientas-exportar-comentarios-tiktok-2026) — TikTok no permite exportar comentarios. Ocho formas de llevarlos a Excel o CSV en 2026, comparadas por formato, traducción, análisis y precio.
+- [Las 10 mejores herramientas gratis para investigar TikTok (2026)](https://tiktok.poviai.com/blog/mejores-herramientas-gratis-investigacion-tiktok-2026) — Diez herramientas gratis para investigar TikTok en 2026: webs sin registro, recursos oficiales, descargadores de código abierto y una extensión con cuota.
 
 **Indonesian**
 
 - [8 Alat Ekspor Komentar TikTok Terbaik di 2026](https://tiktok.poviai.com/blog/alat-ekspor-komentar-tiktok-terbaik-2026) — TikTok tidak punya ekspor komentar bawaan. Delapan cara memindahkan komentar ke Excel atau CSV, dibandingkan dari format, terjemahan, dan harga.
+- [10 Alat Riset TikTok Gratis Terbaik di 2026](https://tiktok.poviai.com/blog/alat-riset-tiktok-gratis-terbaik-2026) — Sepuluh alat riset TikTok gratis untuk 2026: tool web tanpa daftar, sumber resmi TikTok, downloader open-source, dan ekstensi berkuota gratis.
 - [Cara Download Semua Video dari Akun TikTok (3 Metode, 2026)](https://tiktok.poviai.com/blog/cara-download-semua-video-dari-akun-tiktok-2026) — Tiga cara download semua video dari akun TikTok di 2026: ekstensi browser, command line yt-dlp, dan ekspor data resmi dari TikTok.
+- [Download Video TikTok Tanpa Watermark: 4 Cara di 2026](https://tiktok.poviai.com/blog/cara-download-video-tiktok-tanpa-watermark-2026) — Simpan bawaan TikTok menanam watermark ke dalam gambar. Empat cara mendapat file bersih di 2026, plus aturan hak yang tetap berlaku atas file itu.
+- [Cara Membuat Transkrip Video TikTok (Meski Tanpa Subtitle)](https://tiktok.poviai.com/blog/cara-membuat-transkrip-video-tiktok-2026) — Sebagian besar video TikTok tak punya file subtitle. Begini cara membuat transkripnya di 2026 dengan speech-to-text AI, plus koreksi wajibnya.
+- [11 Kesalahan Riset TikTok yang Membuang Waktu Sepekan](https://tiktok.poviai.com/blog/kesalahan-riset-tiktok-2026) — Sebelas kebiasaan yang membuang jam riset TikTok: peringkat follower, bias konten baru, komentar dilewati, salin manual — beserta koreksinya.
 - [8 Pembuat Transkrip TikTok Terbaik di 2026 (Gratis dan Berbayar)](https://tiktok.poviai.com/blog/pembuat-transkrip-tiktok-terbaik-2026) — Delapan cara mendapatkan transkrip TikTok di 2026, gratis dan berbayar, dibandingkan dari dukungan video tanpa subtitle, mode batch, format, dan harga.
 
 **Portuguese**
 
 - [Como baixar todos os vídeos de uma conta do TikTok (2026)](https://tiktok.poviai.com/blog/baixar-todos-os-videos-de-uma-conta-do-tiktok-2026) — Três formas de baixar todos os vídeos de uma conta do TikTok em 2026: extensão de navegador, linha de comando com yt-dlp e a exportação oficial do TikTok.
+- [Como baixar vídeo do TikTok sem marca d'água (2026)](https://tiktok.poviai.com/blog/baixar-video-do-tiktok-sem-marca-dagua-2026) — O salvamento do TikTok grava a marca d'água na imagem. Veja quatro caminhos para obter um arquivo limpo em 2026 e as regras de direitos que valem.
+- [Como transcrever um vídeo do TikTok (mesmo sem legendas)](https://tiktok.poviai.com/blog/como-transcrever-video-do-tiktok-2026) — A maioria dos vídeos do TikTok não tem arquivo de legenda para baixar. Veja como transcrever um em 2026 com IA de fala em texto e o que revisar depois.
 - [11 erros de pesquisa no TikTok que desperdiçam a sua semana](https://tiktok.poviai.com/blog/erros-de-pesquisa-no-tiktok-2026) — Onze hábitos que fazem você perder horas pesquisando no TikTok: ranquear por seguidores, viés de recência, pular comentários, copiar na mão — e a correção.
 - [As 8 melhores ferramentas para exportar comentários do TikTok](https://tiktok.poviai.com/blog/melhores-ferramentas-exportar-comentarios-tiktok-2026) — O TikTok não exporta comentários. Oito formas de levar comentários para o Excel ou CSV em 2026, comparadas por formato, tradução, análise e preço.
+- [As 10 melhores ferramentas gratuitas de pesquisa do TikTok (2026)](https://tiktok.poviai.com/blog/melhores-ferramentas-gratuitas-pesquisa-tiktok-2026) — Dez ferramentas gratuitas de pesquisa do TikTok em 2026: utilitários web sem cadastro, recursos oficiais, downloaders open source e uma extensão.
 - [Os 8 melhores geradores de transcrição do TikTok (2026)](https://tiktok.poviai.com/blog/melhores-geradores-de-transcricoes-tiktok-2026) — Oito formas de conseguir a transcrição de um vídeo do TikTok em 2026, grátis e pagas, comparadas por vídeo sem legenda, modo em lote, formatos e preço.
 
 **Vietnamese**
 
+- [Cách tạo bản ghi lời thoại video TikTok khi không có phụ đề](https://tiktok.poviai.com/blog/cach-tao-ban-ghi-loi-thoai-tiktok-2026) — Phần lớn video TikTok không có file phụ đề để tải. Đây là cách tạo bản ghi lời thoại năm 2026 bằng AI chuyển giọng nói và những gì cần soát lại.
+- [10 công cụ nghiên cứu TikTok miễn phí tốt nhất năm 2026](https://tiktok.poviai.com/blog/cong-cu-nghien-cuu-tiktok-mien-phi-tot-nhat-2026) — Mười công cụ nghiên cứu TikTok miễn phí cho năm 2026: công cụ web không cần đăng ký, tài nguyên chính chủ, mã nguồn mở và tiện ích có hạn mức.
 - [8 công cụ tạo bản ghi lời thoại TikTok tốt nhất 2026](https://tiktok.poviai.com/blog/cong-cu-tao-ban-ghi-tiktok-tot-nhat-2026) — Tám cách lấy bản ghi lời thoại video TikTok năm 2026, miễn phí và trả phí, so sánh video không phụ đề, chế độ hàng loạt, định dạng và giá.
 - [8 công cụ xuất bình luận TikTok tốt nhất năm 2026](https://tiktok.poviai.com/blog/cong-cu-xuat-binh-luan-tiktok-tot-nhat-2026) — TikTok không có tính năng xuất bình luận. Tám cách đưa bình luận ra Excel hoặc CSV năm 2026, so sánh định dạng, dịch, phân tích và giá.
 - [11 sai lầm khi nghiên cứu TikTok khiến bạn mất trắng cả tuần](https://tiktok.poviai.com/blog/sai-lam-khi-nghien-cuu-tiktok-2026) — Mười một thói quen biến nghiên cứu TikTok thành hàng giờ lãng phí: xếp hạng theo follower, thiên vị bài mới, bỏ qua bình luận, chép tay — kèm cách sửa.
 - [Cách tải tất cả video từ một tài khoản TikTok (3 cách, 2026)](https://tiktok.poviai.com/blog/tai-tat-ca-video-tu-tai-khoan-tiktok-2026) — Ba cách tải toàn bộ video của một tài khoản TikTok năm 2026: tiện ích trình duyệt, dòng lệnh yt-dlp và công cụ xuất dữ liệu chính chủ của TikTok.
+- [Tải video TikTok không dính logo chìm: 4 cách năm 2026](https://tiktok.poviai.com/blog/tai-video-tiktok-khong-logo-chim-2026) — TikTok ghi thẳng logo chìm vào khung hình. Bốn cách lấy bản video sạch trong năm 2026, kèm những quy tắc bản quyền vẫn áp dụng cho file đó.
 ## Repository scope
 
 This public mirror includes:
