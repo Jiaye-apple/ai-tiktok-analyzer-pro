@@ -102,6 +102,10 @@ The public website uses focused landing pages instead of forcing unrelated searc
 | Transactional tool | Download TikTok subtitles, SRT, transcripts | [Subtitle downloader](https://tiktok.poviai.com/tools/tiktok-subtitle-downloader) | Get text even when a video has no captions |
 | Informational tool | TikTok hook analysis, first three seconds | [Hook analyzer](https://tiktok.poviai.com/tools/tiktok-hook-analyzer) | Classify the opening pattern of a video |
 | Transactional tool | Download all videos from a TikTok account | [Bulk downloader](https://tiktok.poviai.com/tools/bulk-download-tiktok-videos) | Filter first, then queue an authorized batch |
+| Transactional tool | TikTok video to text, AI transcription | [Video to text](https://tiktok.poviai.com/tools/tiktok-video-to-text) | Get a transcript even without captions |
+| Informational tool | TikTok comment analysis, themes, sentiment | [Comment analysis](https://tiktok.poviai.com/tools/tiktok-comment-analysis) | Read a summary instead of scrolling |
+| Ecommerce research | TikTok Shop video and content research | [Shop content research](https://tiktok.poviai.com/tools/tiktok-shop-video-research) | Study how a product is actually sold |
+| Commercial research | Compare TikTok creators side by side | [Creator comparison](https://tiktok.poviai.com/tools/compare-tiktok-creators) | Build an exportable shortlist |
 | Informational content | Tool comparisons, research guides | [Blog](https://tiktok.poviai.com/blog) | Compare options before committing |
 
 ### Technical SEO foundation
