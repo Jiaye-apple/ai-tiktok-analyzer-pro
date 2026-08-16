@@ -125,13 +125,17 @@ These signals improve crawlability and consistency; they do not guarantee indexi
 
 Long-form research guides and honest tool comparisons published on the product blog. Competitor names are used nominatively; each trademark belongs to its owner.
 
+- [TikTok Research Reporting Clients Actually Read](https://tiktok.poviai.com/blog/agency-tiktok-reporting-workflow-2026) — How agencies turn TikTok research into a deliverable clients read: a one-page decision doc, a linked evidence appendix, and a repeatable monthly workflow.
 - [Turn TikTok Comments into Product Research (2026 Guide)](https://tiktok.poviai.com/blog/analyze-tiktok-comments-for-product-research-2026) — Mine TikTok comments for purchase objections, unexpected use cases, and competitor mentions — a repeatable coding method, plus what TikTok won't export.
+- [Free TikTok Downloader Extensions: What to Check Before Installing](https://tiktok.poviai.com/blog/best-free-tiktok-downloader-extensions-2026) — Before installing a TikTok downloader extension, check its permissions, update history, and developer identity. Here is how to do each check.
 - [10 Best Free TikTok Research Tools in 2026](https://tiktok.poviai.com/blog/best-free-tiktok-research-tools-2026) — Ten free TikTok research tools for 2026: no-signup web tools, official TikTok resources, open-source downloaders, and a free-quota extension.
-- [9 Best TikTok Chrome Extensions in 2026](https://tiktok.poviai.com/blog/best-tiktok-chrome-extensions-2026) — Nine TikTok Chrome extension categories worth installing in 2026, organized by job — plus a permissions checklist for vetting any listing yourself.
+- [Best TikTok Chrome Extensions in 2026: 5 Verified Picks](https://tiktok.poviai.com/blog/best-tiktok-chrome-extensions-2026) — Five TikTok Chrome extensions with install counts and ratings verified on 16 August 2026, plus the nine jobs these tools do and how to vet any listing.
+- [6 Best TikTok Comment Analysis Tools in 2026](https://tiktok.poviai.com/blog/best-tiktok-comment-analysis-tools-2026) — TikTok has no comment export and no bulk translation. Compare six tools that pull, translate, and analyze TikTok comments, with honest trade-offs.
 - [7 Best TikTok Comment Export Tools in 2026](https://tiktok.poviai.com/blog/best-tiktok-comment-export-tools-2026) — TikTok has no native comment export. Seven ways to get comments into Excel or CSV in 2026, compared on format, translation, analysis and price.
 - [8 Best TikTok Transcript Generators in 2026 (Free and Paid)](https://tiktok.poviai.com/blog/best-tiktok-transcript-generators-2026) — Eight ways to get a TikTok transcript in 2026, free and paid, compared on captionless video support, batch mode, output formats and price.
 - [Countik Alternatives in 2026: Free TikTok Tools That Go Deeper](https://tiktok.poviai.com/blog/countik-alternative-2026) — Countik's free tools answer number questions well. Here are five alternatives for 2026 when you need transcripts, comment exports, and real research.
 - [Researching TikTok in a Language You Don't Speak (2026 Playbook)](https://tiktok.poviai.com/blog/cross-border-tiktok-research-language-barrier-2026) — How cross-border sellers read TikTok audience reaction in unfamiliar languages: batch comment translation, transcripts, and what machine translation loses.
+- [How to Get the Audio from a TikTok Video (and When You May Not)](https://tiktok.poviai.com/blog/download-tiktok-audio-mp3-2026) — Extract audio or a transcript from a TikTok video, and understand the copyright limits that decide what you are allowed to do with the result.
 - [DownSub Alternatives for TikTok Transcripts (2026)](https://tiktok.poviai.com/blog/downsub-alternative-tiktok-transcripts-2026) — DownSub only downloads subtitles that already exist. Here are the 2026 alternatives that transcribe TikTok audio when a video has no captions at all.
 - [EchoTik Alternatives in 2026: 5 TikTok Research Tools Compared](https://tiktok.poviai.com/blog/echotik-alternative-tiktok-tools-2026) — EchoTik alternatives for 2026: five TikTok research tools compared by data depth, price, and fit, with free options for content-first teams.
 - [Exolyt Alternatives in 2026: TikTok Analytics Without the Enterprise Price](https://tiktok.poviai.com/blog/exolyt-alternative-2026) — Six Exolyt alternatives for 2026, from free TikTok calculators to commerce data platforms — with honest notes on which ones are actively maintained.
@@ -143,21 +147,26 @@ Long-form research guides and honest tool comparisons published on the product b
 - [Kalodata Alternatives in 2026: 5 Tools for TikTok Research (Including Free Options)](https://tiktok.poviai.com/blog/kalodata-alternative-tiktok-research-2026) — Five Kalodata alternatives for 2026 — from a free browser extension for public-page research to full GMV data platforms, with honest fit notes.
 - [Kalodata vs EchoTik (2026): Which TikTok Data Platform Fits Your Team?](https://tiktok.poviai.com/blog/kalodata-vs-echotik-2026) — A third-party Kalodata vs EchoTik comparison for 2026: pricing transparency, data focus, free tools, and how to run a trial that actually decides it.
 - [KOLSprite Alternatives in 2026: TikTok Downloader Extensions and Research Tools Compared](https://tiktok.poviai.com/blog/kolsprite-alternative-tiktok-downloader-2026) — KOLSprite alternatives for 2026: browser extensions and platforms for TikTok download, sorting, and analysis compared, with honest trade-offs.
-- [Turn TikTok Videos into Blog Posts and Newsletters (2026 Workflow)](https://tiktok.poviai.com/blog/repurpose-tiktok-videos-into-blog-posts-2026) — A repeatable way to convert your TikTok videos into blog posts and newsletters: transcribe, restructure spoken language into written.
+- [Turn TikTok Videos into Blog Posts and Newsletters (2026 Workflow)](https://tiktok.poviai.com/blog/repurpose-tiktok-videos-into-blog-posts-2026) — A repeatable workflow for turning your TikTok videos into blog posts and newsletters: transcribe, restructure, and rewrite for readers.
 - [Shoplus Alternatives in 2026: 5 TikTok Research Tools Compared](https://tiktok.poviai.com/blog/shoplus-alternative-2026) — Five Shoplus alternatives for 2026, ordered by how close each sits to shop analytics — plus an honest note on when a data platform is overkill.
 - [SnapTik Alternatives in 2026: From One-Off Downloads to a Research Workflow](https://tiktok.poviai.com/blog/snaptik-alternative-2026) — SnapTik alternatives for 2026, compared by how far past the download they take you: extension, CLI, desktop, analytics SaaS and TikTok's own tools.
 - [SSSTik Alternatives in 2026: 6 Ways to Save TikTok Videos (Extension, CLI, Desktop)](https://tiktok.poviai.com/blog/ssstik-alternative-chrome-extension-2026) — Six SSSTik alternatives compared: browser extension, command line, desktop app and official export, with honest pros, cons and 2026 pricing.
 - [TikBuddy Is Now Crevideo: 5 Alternatives for TikTok Content Research (2026)](https://tiktok.poviai.com/blog/tikbuddy-crevideo-alternative-2026) — tikbuddy.com now redirects to crevideo.com, and the product has pivoted. Here are five alternatives for the TikTok research TikBuddy used to cover.
-- [How to Pick TikTok Affiliate Products Using Public Content Signals](https://tiktok.poviai.com/blog/tiktok-affiliate-product-research-2026) — Judge a TikTok affiliate product before you request samples: read demo performance, comment intent, angle saturation.
+- [How to Pick TikTok Affiliate Products Using Public Content Signals](https://tiktok.poviai.com/blog/tiktok-affiliate-product-research-2026) — Judge a TikTok affiliate product before you request samples: read demo performance, comment intent, and how saturated the angle already is.
+- [How to Read TikTok Comment Sentiment Without Guessing (2026)](https://tiktok.poviai.com/blog/tiktok-comment-sentiment-analysis-guide-2026) — Scrolling comments skews your read toward the loudest few. Here is a repeatable way to export, translate, cluster, and sentiment-check TikTok comments.
 - [A TikTok Competitor Research Workflow That Takes 30 Minutes (2026)](https://tiktok.poviai.com/blog/tiktok-competitor-research-workflow-2026) — A five-step, 30-minute TikTok competitor research workflow: build a shortlist, sort for outliers, transcribe hooks, mine comments, export a brief.
 - [Build a TikTok Content Calendar from Competitor Research (2026)](https://tiktok.poviai.com/blog/tiktok-content-calendar-from-competitor-research-2026) — Turn competitor outliers into a four-week TikTok calendar: sort profiles for breakouts, pull hooks as text, cluster themes, then schedule and review.
+- [The Creator Outreach Brief That Gets Replies](https://tiktok.poviai.com/blog/tiktok-creator-outreach-brief-2026) — A research-first approach to TikTok creator outreach, with a copy-paste first-message template, a one-page attachment, and a follow-up cadence that works.
+- [Hashtag Research for TikTok That Isn't Guesswork](https://tiktok.poviai.com/blog/tiktok-hashtag-research-workflow-2026) — This workflow replaces hashtag guesswork with evidence from top videos, real comment language, and a tag log you review every few weeks.
 - [9 TikTok Hook Formulas (and How to Find Which One a Video Used)](https://tiktok.poviai.com/blog/tiktok-hook-formulas-2026) — Nine TikTok hook structures with templates and failure modes, plus a method for reverse-engineering which formula any video used from its transcript.
 - [11 TikTok Research Mistakes That Waste Your Week](https://tiktok.poviai.com/blog/tiktok-research-mistakes-2026) — Eleven habits that turn TikTok research into wasted hours — follower-count ranking, recency bias, skipped comments, manual copying — each with the fix.
+- [Buying a TikTok Research Tool: 8 Questions to Ask First](https://tiktok.poviai.com/blog/tiktok-research-tool-buying-guide-2026) — Eight questions to ask before you buy a TikTok research tool, covering data sources, exports, languages, seats, permissions, retention, and exit cost.
+- [Teardown: The Four Parts of a TikTok Script That Sells](https://tiktok.poviai.com/blog/tiktok-script-structure-teardown-2026) — A teardown of the four parts of a selling TikTok script — hook, proof, offer, and CTA — with recognizable markers and example structures for each.
+- [Audit a TikTok Shop Competitor's Content in One Afternoon](https://tiktok.poviai.com/blog/tiktok-shop-competitor-content-audit-2026) — Audit a TikTok Shop competitor's public videos, transcripts, and comments in one afternoon, and learn what this method cannot tell you.
 - [How to Vet TikTok Shop Creators Before You Pay Them (2026)](https://tiktok.poviai.com/blog/tiktok-shop-creator-vetting-guide-2026) — A public-data due diligence checklist for TikTok Shop sellers: baseline reach, commerce ratio, comment authenticity, and audience language.
-- [The TikTok UGC Brief Template That Creators Actually Follow](https://tiktok.poviai.com/blog/tiktok-ugc-brief-template-2026) — Write TikTok UGC briefs creators follow: research hooks and comment objections first, specify outcomes not shot lists, and use the full copy-paste template.
-
-All posts: [tiktok.poviai.com/blog](https://tiktok.poviai.com/blog)
-
+- [Translating TikTok Subtitles for Cross-Border Campaigns](https://tiktok.poviai.com/blog/tiktok-subtitle-translation-workflow-2026) — A step-by-step workflow for transcribing and translating TikTok subtitles across markets, including where machine translation reliably breaks down.
+- [The TikTok UGC Brief Template That Creators Actually Follow](https://tiktok.poviai.com/blog/tiktok-ugc-brief-template-2026) — Write TikTok UGC briefs creators follow: research hooks and comment objections first, specify outcomes not shot lists, plus a copy-paste template.
+- [What TikTok Video Data You Can Actually Export in 2026](https://tiktok.poviai.com/blog/tiktok-video-metadata-export-2026) — A field-by-field look at which TikTok video data is public and exportable in 2026, which is only estimated, and which no third-party tool can give you.
 ## International SEO and localization
 
 The source dictionaries live under `i18n/<locale>/`. Every locale must keep the same keys, placeholders and HTML-tag structure.
@@ -172,6 +181,36 @@ Rebuild and validate generated catalogs with:
 node scripts/build-i18n.mjs
 node scripts/check-i18n.mjs
 ```
+
+### Translated guides
+
+Guides are also published as native-language articles rather than machine translations of the English text, each with its own URL and reciprocal hreflang annotations.
+
+**Spanish**
+
+- [Cómo descargar todos los videos de una cuenta de TikTok (3 métodos, 2026)](https://tiktok.poviai.com/blog/descargar-todos-los-videos-de-una-cuenta-de-tiktok-2026) — Tres formas de descargar todos los videos de una cuenta de TikTok en 2026: extensión de navegador, línea de comandos yt-dlp y exportación oficial.
+- [Los 8 mejores generadores de transcripciones de TikTok en 2026 (gratis y de pago)](https://tiktok.poviai.com/blog/mejores-generadores-de-transcripciones-tiktok-2026) — Ocho formas de obtener la transcripción de un video de TikTok en 2026, gratis y de pago, comparadas por soporte sin subtítulos, lotes, formatos y precio.
+- [Las 7 mejores herramientas para exportar comentarios de TikTok en 2026](https://tiktok.poviai.com/blog/mejores-herramientas-exportar-comentarios-tiktok-2026) — TikTok no permite exportar comentarios. Siete formas de llevarlos a Excel o CSV en 2026, comparadas por formato, traducción, análisis y precio.
+
+**Indonesian**
+
+- [7 Alat Ekspor Komentar TikTok Terbaik di 2026](https://tiktok.poviai.com/blog/alat-ekspor-komentar-tiktok-terbaik-2026) — TikTok tidak punya ekspor komentar bawaan. Tujuh cara memindahkan komentar ke Excel atau CSV di 2026, dibandingkan dari format, terjemahan, dan harga.
+- [Cara Download Semua Video dari Akun TikTok (3 Metode, 2026)](https://tiktok.poviai.com/blog/cara-download-semua-video-dari-akun-tiktok-2026) — Tiga cara download semua video dari akun TikTok di 2026: ekstensi browser, command line yt-dlp, dan ekspor data resmi dari TikTok.
+- [8 Pembuat Transkrip TikTok Terbaik di 2026 (Gratis dan Berbayar)](https://tiktok.poviai.com/blog/pembuat-transkrip-tiktok-terbaik-2026) — Delapan cara mendapatkan transkrip TikTok di 2026, gratis dan berbayar, dibandingkan dari dukungan video tanpa subtitle, mode batch, format, dan harga.
+
+**Portuguese**
+
+- [Como baixar todos os vídeos de uma conta do TikTok (3 métodos, 2026)](https://tiktok.poviai.com/blog/baixar-todos-os-videos-de-uma-conta-do-tiktok-2026) — Três formas de baixar todos os vídeos de uma conta do TikTok em 2026: extensão de navegador, linha de comando com yt-dlp e a exportação oficial do TikTok.
+- [11 erros de pesquisa no TikTok que desperdiçam a sua semana](https://tiktok.poviai.com/blog/erros-de-pesquisa-no-tiktok-2026) — Onze hábitos que transformam a pesquisa no TikTok em horas perdidas — ranquear por seguidores, viés de recência, pular comentários, copiar na mão — com a correção.
+- [As 7 melhores ferramentas para exportar comentários do TikTok em 2026](https://tiktok.poviai.com/blog/melhores-ferramentas-exportar-comentarios-tiktok-2026) — O TikTok não exporta comentários. Sete formas de levar comentários para o Excel ou CSV em 2026, comparadas por formato, tradução, análise e preço.
+- [Os 8 melhores geradores de transcrição do TikTok em 2026 (grátis e pagos)](https://tiktok.poviai.com/blog/melhores-geradores-de-transcricoes-tiktok-2026) — Oito formas de conseguir a transcrição de um vídeo do TikTok em 2026, grátis e pagas, comparadas por vídeo sem legenda, modo em lote, formatos e preço.
+
+**Vietnamese**
+
+- [8 công cụ tạo bản ghi lời thoại TikTok tốt nhất 2026 (miễn phí và trả phí)](https://tiktok.poviai.com/blog/cong-cu-tao-ban-ghi-tiktok-tot-nhat-2026) — Tám cách lấy bản ghi lời thoại video TikTok năm 2026, miễn phí và trả phí, so sánh video không phụ đề, chế độ hàng loạt, định dạng và giá.
+- [7 công cụ xuất bình luận TikTok tốt nhất năm 2026](https://tiktok.poviai.com/blog/cong-cu-xuat-binh-luan-tiktok-tot-nhat-2026) — TikTok không có tính năng xuất bình luận. Bảy cách đưa bình luận ra Excel hoặc CSV năm 2026, so sánh định dạng, dịch, phân tích và giá.
+- [11 sai lầm khi nghiên cứu TikTok khiến bạn mất trắng cả tuần](https://tiktok.poviai.com/blog/sai-lam-khi-nghien-cuu-tiktok-2026) — Mười một thói quen biến nghiên cứu TikTok thành hàng giờ lãng phí: xếp hạng theo follower, thiên vị bài mới, bỏ qua bình luận, chép tay — kèm cách sửa.
+- [Cách tải tất cả video từ một tài khoản TikTok (3 cách, 2026)](https://tiktok.poviai.com/blog/tai-tat-ca-video-tu-tai-khoan-tiktok-2026) — Ba cách tải toàn bộ video của một tài khoản TikTok năm 2026: tiện ích trình duyệt, dòng lệnh yt-dlp và công cụ xuất dữ liệu chính chủ của TikTok.
 
 ## Repository scope
 
