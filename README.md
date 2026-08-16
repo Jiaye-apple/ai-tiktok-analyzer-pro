@@ -117,6 +117,31 @@ The public website uses focused landing pages instead of forcing unrelated searc
 
 These signals improve crawlability and consistency; they do not guarantee indexing, rankings, rich results or AI citations.
 
+## Guides and tool comparisons
+
+Long-form research guides and honest tool comparisons published on the product blog. Competitor names are used nominatively; each trademark belongs to its owner.
+
+- [Turn TikTok Comments into Product Research (2026 Guide)](https://tiktok.poviai.com/blog/analyze-tiktok-comments-for-product-research-2026) — Mine TikTok comments for purchase objections, unexpected use cases, and competitor mentions — a repeatable coding method, plus what TikTok won't export.
+- [10 Best Free TikTok Research Tools in 2026](https://tiktok.poviai.com/blog/best-free-tiktok-research-tools-2026) — Ten free TikTok research tools for 2026: no-signup web tools, official TikTok resources, open-source downloaders, and a free-quota extension.
+- [7 Best TikTok Comment Export Tools in 2026](https://tiktok.poviai.com/blog/best-tiktok-comment-export-tools-2026) — TikTok has no native comment export. Seven ways to get comments into Excel or CSV in 2026, compared on format, translation, analysis and price.
+- [8 Best TikTok Transcript Generators in 2026 (Free and Paid)](https://tiktok.poviai.com/blog/best-tiktok-transcript-generators-2026) — Eight ways to get a TikTok transcript in 2026, free and paid, compared on captionless video support, batch mode, output formats and price.
+- [Researching TikTok in a Language You Don't Speak (2026 Playbook)](https://tiktok.poviai.com/blog/cross-border-tiktok-research-language-barrier-2026) — How cross-border sellers read TikTok audience reaction in unfamiliar languages: batch comment translation, transcripts, and what machine translation loses.
+- [DownSub Alternatives for TikTok Transcripts (2026)](https://tiktok.poviai.com/blog/downsub-alternative-tiktok-transcripts-2026) — DownSub only downloads subtitles that already exist. Here are the 2026 alternatives that transcribe TikTok audio when a video has no captions at all.
+- [EchoTik Alternatives in 2026: 5 TikTok Research Tools Compared](https://tiktok.poviai.com/blog/echotik-alternative-tiktok-tools-2026) — EchoTik alternatives for 2026: five TikTok research tools compared by data depth, price, and fit, with free options for content-first teams.
+- [FastMoss Alternatives in 2026: 5 TikTok Analytics Tools Compared (Free Options Included)](https://tiktok.poviai.com/blog/fastmoss-alternative-tiktok-analytics-2026) — FastMoss alternatives for 2026: five options compared on price and fit, including free routes for teams that only need content research.
+- [FastMoss vs Kalodata (2026): Which TikTok Analytics Platform Fits Your Workflow?](https://tiktok.poviai.com/blog/fastmoss-vs-kalodata-2026) — A third-party FastMoss vs Kalodata comparison for 2026: pricing, data focus, and fit — plus a free route if you only need public-page research.
+- [12 Free TikTok Analytics Tools in 2026 (What Each One Actually Does)](https://tiktok.poviai.com/blog/free-tiktok-analytics-tools-2026) — Twelve free TikTok tools in 2026: official TikTok resources, free calculators, open-source downloaders, and free web tools — what each actually does.
+- [How to Download All Videos from a TikTok Account (3 Methods, 2026)](https://tiktok.poviai.com/blog/how-to-download-all-videos-from-tiktok-account-2026) — Three ways to download every video from a TikTok account in 2026: a browser extension, the yt-dlp command line, and TikTok's own data export.
+- [Kalodata Alternatives in 2026: 5 Tools for TikTok Research (Including Free Options)](https://tiktok.poviai.com/blog/kalodata-alternative-tiktok-research-2026) — Five Kalodata alternatives for 2026 — from a free browser extension for public-page research to full GMV data platforms, with honest fit notes.
+- [KOLSprite Alternatives in 2026: TikTok Downloader Extensions and Research Tools Compared](https://tiktok.poviai.com/blog/kolsprite-alternative-tiktok-downloader-2026) — KOLSprite alternatives for 2026: browser extensions and platforms for TikTok download, sorting, and analysis compared, with honest trade-offs.
+- [SnapTik Alternatives in 2026: From One-Off Downloads to a Research Workflow](https://tiktok.poviai.com/blog/snaptik-alternative-2026) — SnapTik alternatives for 2026, compared by how far past the download they take you: extension, CLI, desktop, analytics SaaS and TikTok's own tools.
+- [SSSTik Alternatives in 2026: 6 Ways to Save TikTok Videos (Extension, CLI, Desktop)](https://tiktok.poviai.com/blog/ssstik-alternative-chrome-extension-2026) — Six SSSTik alternatives compared: browser extension, command line, desktop app and official export, with honest pros, cons and 2026 pricing.
+- [A TikTok Competitor Research Workflow That Takes 30 Minutes (2026)](https://tiktok.poviai.com/blog/tiktok-competitor-research-workflow-2026) — A five-step, 30-minute TikTok competitor research workflow: build a shortlist, sort for outliers, transcribe hooks, mine comments, export a brief.
+- [9 TikTok Hook Formulas (and How to Find Which One a Video Used)](https://tiktok.poviai.com/blog/tiktok-hook-formulas-2026) — Nine TikTok hook structures with templates and failure modes, plus a method for reverse-engineering which formula any video used from its transcript.
+- [How to Vet TikTok Shop Creators Before You Pay Them (2026)](https://tiktok.poviai.com/blog/tiktok-shop-creator-vetting-guide-2026) — A public-data due diligence checklist for TikTok Shop sellers: baseline reach, commerce ratio, comment authenticity, and audience language.
+
+All posts: [tiktok.poviai.com/blog](https://tiktok.poviai.com/blog)
+
 ## International SEO and localization
 
 The source dictionaries live under `i18n/<locale>/`. Every locale must keep the same keys, placeholders and HTML-tag structure.
