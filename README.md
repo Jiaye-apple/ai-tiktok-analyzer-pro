@@ -234,23 +234,37 @@ Guides are also published as native-language articles rather than machine transl
 
 **Japanese**
 
+- [TikTokアカウントの全動画を保存する3つの方法（2026年版）](https://tiktok.poviai.com/blog/tiktok-account-zendouga-hozon-2026) — TikTokアカウントの動画をまとめて保存する方法は2026年も3つです。プロフィールから一括保存するブラウザ拡張機能、コマンドラインのyt-dlp、自分のアカウントだけが対象の公式データエクスポートを比べました。
+- [TikTokコメント分析ツール5選（2026年版）](https://tiktok.poviai.com/blog/tiktok-comment-bunseki-tool-2026) — コメントはもう手元にあります。数千行をテーマ別にまとめ、感情を誠実に読み、最後は判断で終えるための5つの方法を比べました。
 - [TikTokコメント書き出しツール8選（2026年版）](https://tiktok.poviai.com/blog/tiktok-comment-export-tool-2026) — TikTokにはコメントの書き出し機能がありません。2026年に動画のコメントをExcelやCSVで手に入れる8つの方法を、形式・件数・翻訳・費用で比較しました。
+- [TikTokのコメント欄をまるごと翻訳する方法（2026年版）](https://tiktok.poviai.com/blog/tiktok-comment-honyaku-2026) — TikTokの翻訳は1件ずつしか使えません。スレッドを書き出し、列ごとまとめて翻訳し、原文を隣に残して検証できる状態にするまでの手順をまとめました。
 - [TikTokのコメントを商品リサーチに変える（2026年版）](https://tiktok.poviai.com/blog/tiktok-comment-shohin-research-2026) — 購入をためらう理由、想定していなかった使い方、競合の名前をTikTokのコメントから掘り出す手順です。繰り返し使えるコード付けの方法と、TikTokが書き出してくれないものをまとめました。
 - [特定の商品ニッチに合うTikTokクリエイターの探し方](https://tiktok.poviai.com/blog/tiktok-creator-sagashikata-2026) — 商品ニッチに合うTikTokクリエイターの候補リストをつくる手順です。どこから集めるか、長いリストをどう素早く削るか、連絡する前に何を確かめるかをまとめました。
 - [TikTok動画を文字起こしする方法（字幕がなくても）](https://tiktok.poviai.com/blog/tiktok-douga-mojiokoshi-2026) — TikTok動画の多くには、ダウンロードできる字幕ファイルがありません。2026年にAI音声認識で文字起こしする手順と、使う前に必ず確認したい点をまとめました。
+- [TikTokのエンゲージメント率を、自分をだまさずに読む方法](https://tiktok.poviai.com/blog/tiktok-engagement-ritsu-yomikata-2026) — TikTokのエンゲージメント率には少なくとも4つの計算式があり、同じアカウントでも答えが食い違います。アカウント自身の基準値を出し、クリエイターを公平に比べるまでの手順をまとめました。
 - [TikTokの冒頭フック9パターンと、使われた型の見分け方](https://tiktok.poviai.com/blog/tiktok-hook-kata-2026) — 繰り返し現れるTikTokのフック9パターンを、テンプレートと失敗の型つきで解説。書き起こしから、その動画がどの型を使ったのかを逆算する手順もまとめました。
+- [TikTok文字起こしツール8選（2026年版・無料と有料）](https://tiktok.poviai.com/blog/tiktok-mojiokoshi-tool-hikaku-2026) — 2026年にTikTokの文字起こしを手に入れる8つの方法を、字幕なし動画への対応、一括処理、出力形式、料金で比べました。無料と有料の両方を扱います。
+- [無料で使えるTikTok分析ツール12選（2026年版）](https://tiktok.poviai.com/blog/tiktok-muryo-bunseki-tool-2026) — 2026年に無料で使えるTikTok分析ツールを12個、無料の種類別に整理しました。TikTok公式の機能、有料プラットフォームの無料ツール、オープンソース、当社の無料Webツールまで、それぞれができることを1文で説明します。
 - [無料で使えるTikTokリサーチツール10選（2026年版）](https://tiktok.poviai.com/blog/tiktok-muryo-research-tool-2026) — 2026年に無料で使えるTikTokリサーチツールを10個紹介します。登録不要のWebツール、TikTok公式のリソース、オープンソースのダウンローダー、無料枠付きの拡張機能まで揃います。
 - [TikTok動画から音声を取り出す方法と、使ってよい場面・ダメな場面](https://tiktok.poviai.com/blog/tiktok-onsei-mp3-hozon-2026) — TikTok動画から音声や書き起こしを取り出す手順と、出てきたファイルを何に使ってよいのかを決める著作権の線引きをまとめました。
+- [TikTokリサーチで時間を溶かす11の失敗と、その直し方](https://tiktok.poviai.com/blog/tiktok-research-shippai-2026) — フォロワー数での序列づけ、新着だけを見る癖、コメントの読み飛ばし、手作業のコピー——TikTokリサーチの時間を溶かす11の習慣を、それぞれの直し方とセットでまとめました。
 - [TikTok動画を透かしなしで保存する方法（2026年版）](https://tiktok.poviai.com/blog/tiktok-sukashi-nashi-download-2026) — TikTokアプリの保存機能は、透かしを映像そのものに焼き込みます。2026年に透かしなしのファイルを手に入れる4つのルートと、そのファイルにも変わらず適用される権利のルールをまとめました。
 
 **Korean**
 
+- [틱톡 참여율, 스스로를 속이지 않고 읽는 법](https://tiktok.poviai.com/blog/tiktok-cham-yeoyul-ilgneun-beop-2026) — 틱톡 참여율 공식은 흔히 쓰이는 것만 네 가지고 서로 어긋납니다. 계정마다 기준선을 구해 게시물을 그 배수로 읽고 크리에이터를 정직하게 비교하는 방법을 정리했습니다.
+- [틱톡 댓글창을 통째로 번역하는 방법](https://tiktok.poviai.com/blog/tiktok-daetgeul-beonyeok-2026) — 틱톡은 댓글을 한 번에 하나씩만 번역합니다. 댓글창을 내보내 열 전체를 한 번에 번역하고 원문을 옆에 남겨 검증 가능한 파일을 만드는 절차를 정리했습니다.
+- [2026년 틱톡 댓글 분석 도구 5선](https://tiktok.poviai.com/blog/tiktok-daetgeul-bunseok-dogu-2026) — 댓글은 이미 손에 있습니다. 수천 행의 틱톡 댓글을 주제로 묶고, 감정을 정직하게 읽고, 결정으로 끝내는 다섯 가지 방법을 비교했습니다.
 - [2026년 틱톡 댓글 내보내기 도구 8선](https://tiktok.poviai.com/blog/tiktok-daetgeul-naeboneagi-dogu-2026) — 틱톡에는 댓글 내보내기 기능이 없습니다. 댓글을 Excel이나 CSV로 옮기는 여덟 가지 방법을 형식, 처리량, 번역, 비용 기준으로 비교했습니다.
 - [틱톡 댓글을 제품 리서치로 바꾸는 방법 (2026)](https://tiktok.poviai.com/blog/tiktok-daetgeul-sangpum-riseochi-2026) — 구매를 막은 이유, 마케팅한 적 없는 사용 맥락, 경쟁 제품 언급을 틱톡 댓글에서 캐내는 법. 반복 가능한 코딩 절차와 틱톡이 내주지 않는 것까지 정리했습니다.
 - [틱톡 영상에서 음성만 뽑는 방법, 그리고 쓰면 안 되는 경우](https://tiktok.poviai.com/blog/tiktok-eumseong-mp3-jeojang-2026) — 틱톡 영상에서 오디오나 자막 텍스트를 뽑아내는 방법과, 그 결과물을 어디까지 써도 되는지 가르는 저작권 경계를 정리했습니다.
+- [틱톡 계정 영상 전체를 저장하는 방법 (2026)](https://tiktok.poviai.com/blog/tiktok-gyejeong-jeonche-yeongsang-jeojang-2026) — 브라우저 확장 프로그램, yt-dlp 명령줄, 틱톡 공식 데이터 내보내기까지 계정 하나의 영상을 통째로 받는 2026년 기준 세 가지 방법을 비교했습니다.
 - [틱톡 훅 공식 9가지와 어떤 공식을 썼는지 알아내는 법](https://tiktok.poviai.com/blog/tiktok-hoock-gongsik-2026) — 반복해서 등장하는 틱톡 훅 구조 아홉 가지를 템플릿과 실패 패턴까지 정리하고, 잘된 영상이 어떤 공식을 썼는지 자막에서 역추적하는 방법을 담았습니다.
+- [2026년 틱톡 자막·전사 생성 도구 8선 (무료·유료)](https://tiktok.poviai.com/blog/tiktok-jamak-saengseong-dogu-2026) — 자막이 없는 틱톡 영상에서도 텍스트를 얻는 여덟 가지 방법을 무료와 유료로 나눠, 음성 인식 지원과 일괄 처리, 출력 형식, 비용 기준으로 비교했습니다.
 - [특정 제품 니치의 틱톡 크리에이터를 찾는 방법](https://tiktok.poviai.com/blog/tiktok-keurieiteo-chatgi-2026) — 제품 니치에 맞는 틱톡 크리에이터 후보군을 만드는 법. 후보가 실제로 어디서 나오는지, 긴 목록을 어떻게 빨리 줄이는지, 연락 전에 무엇을 확인할지 정리했습니다.
+- [무료로 쓰는 틱톡 분석 도구 12선 (2026)](https://tiktok.poviai.com/blog/tiktok-muryo-bunseok-dogu-2026) — 틱톡 공식 자료, 유료 플랫폼이 여는 무료 계산기, 오픈소스 다운로더, 무료 웹 도구까지 2026년 무료 틱톡 분석 도구 12가지가 각각 실제로 무엇을 하는지 정리했습니다.
 - [무료로 쓰는 틱톡 리서치 도구 10선 (2026)](https://tiktok.poviai.com/blog/tiktok-muryo-riseochi-dogu-2026) — 가입 없이 쓰는 웹 도구, 틱톡 공식 자료, 오픈소스 다운로더, 무료 할당량 확장 프로그램까지 2026년 무료 틱톡 리서치 도구 10가지를 정리했습니다.
+- [일주일을 날리는 틱톡 리서치 실수 11가지](https://tiktok.poviai.com/blog/tiktok-riseochi-silsu-2026) — 팔로워 수로 줄 세우기, 최신 게시물만 보기, 댓글 건너뛰기, 손으로 옮겨 적기 — 틱톡 리서치 시간을 날리는 습관 11가지를 각각의 교정법과 함께 정리했습니다.
 - [틱톡 영상 워터마크 없이 저장하는 방법 (2026)](https://tiktok.poviai.com/blog/tiktok-watermark-eopsi-jeojang-2026) — 틱톡 앱의 저장 기능은 워터마크를 화면에 그대로 새깁니다. 2026년 기준 깨끗한 원본을 얻는 네 가지 경로와, 그 파일에 여전히 붙는 권리 문제를 정리했습니다.
 - [틱톡 영상을 텍스트로 변환하는 방법 (자막이 없어도)](https://tiktok.poviai.com/blog/tiktok-yeongsang-tekseuteu-byeonhwan-2026) — 틱톡 영상 대부분에는 내려받을 자막 파일이 없습니다. 2026년 기준 AI 음성 인식으로 영상을 텍스트로 옮기는 순서와, 그 결과를 쓰기 전에 확인할 것들을 정리했습니다.
 
